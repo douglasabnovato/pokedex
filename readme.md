@@ -21,12 +21,12 @@
 - [x] estilizar cards para exibir cada pokemón
 - [x] corrigir possíveis warnings e registrar
 - [x] registrar detalhes do projeto e as telas no readme
+- [x] modolarizar a solução: código refatorado
 
 #### Próximo passo
 
-- [x] modolarizar a solução: código refatorado
 - [ ] criar um modal com mais informações do pokemon e exibir quando clicar no card 
-- [ ] adicionar a funcionalidade de pesquisar por nome ou número de pokemon
+- [ ] adicionar a funcionalidade de pesquisar por nome ou número de poke
 
 #### Inspiração
 
