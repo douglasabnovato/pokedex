@@ -26,7 +26,7 @@
 
 - [x] modolarizar a solução: código refatorado
 - [ ] criar um modal com mais informações do pokemon e exibir quando clicar no card 
-- [ ] adicionar uma funcionalidade e descrever
+- [ ] adicionar a funcionalidade de pesquisar por nome ou número de pokemon
 
 #### Inspiração
 
