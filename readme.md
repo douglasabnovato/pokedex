@@ -19,6 +19,7 @@
 - [x] consumir api com fetch
 - [x] estilizar cards para exibir cada pokemón
 - [x] corrigir possíveis warnings e registrar
+- [x] registrar detalhes de projetos e telas no readme
 
 #### Próximo passo
 
