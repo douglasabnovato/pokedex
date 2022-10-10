@@ -26,7 +26,8 @@
 #### Próximo passo
 
 - [ ] criar um modal com mais informações do pokemon e exibir quando clicar no card 
-- [ ] adicionar a funcionalidade de pesquisar por nome ou número de poke
+- [ ] adicionar a funcionalidade de pesquisar por nome ou número de pokémons
+- [ ] personalizar
 
 #### Inspiração
 
