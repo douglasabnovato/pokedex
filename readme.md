@@ -6,11 +6,12 @@
   <img alt="versão 1 do projeto" title="#pokedex" src="./.github/tela-1.jpg">
 </p> 
 
-- consumir dados da Pokeapi
-- [Documentação](https://pokeapi.co/docs/v2)
-- [Nome](https://pokeapi.co/api/v2/pokemon/ditto)
-- [Pikachu](https://pokeapi.co/api/v2/pokemon/25)
-- [Imagens de Pokemon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png)
+#### Referências
+
+- [Documentação Pokeapi](https://pokeapi.co/docs/v2)
+- [url Nome](https://pokeapi.co/api/v2/pokemon/ditto)
+- [url Pikachu](https://pokeapi.co/api/v2/pokemon/25)
+- [fonte das Imagens de Pokemon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png)
 
 #### Requisitos
 
@@ -23,7 +24,7 @@
 
 #### Próximo passo
 
-- [ ] modolarizar a solução
+- [x] modolarizar a solução: código refatorado
 - [ ] criar um modal com mais informações do pokemon e exibir quando clicar no card 
 - [ ] adicionar uma funcionalidade e descrever
 
